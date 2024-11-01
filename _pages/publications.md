@@ -16,13 +16,13 @@ nav_order: 1
  <h2 id="research"> <b> Working paper </b> </h2>
 
  <p>Fiscal Rules and Fiscal Policy: A Quantitative Analysis </p>
+  <p> Trade Policy and U.S. Multinationals activities </p> 
 </div>
 
 <div class="home">
 
  <h2 id="research"> <b> Work in progress </b> </h2>
 
-  <p> Trade Restrictions and Activity of Multinational Enterprises </p> 
   
  <p> Transition to Renewables and Public Debt Sustainability, ( with Fansa Kone and Lucien Chaffa )</p>
 </div>
