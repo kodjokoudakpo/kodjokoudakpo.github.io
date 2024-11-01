@@ -25,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). 
 
 
-<p align="justify">My research focuses on <strong> macroeconomics, public economics, international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens.   </p>
+<p align="justify">My research focuses on <strong> macroeconomics, public economics, international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens. I also study the implications of trade fragmentation on U.S. multinationals activities.  </p>
 
 
 <p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics, and a MSc. in Applied Statistics from ENSAE-Senegal. I have worked as an Economist-Statistician at <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href='https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>, and <a href='https://www.usaid.gov/'>USAID-RTAC</a>, as well as at the National Statistics Office.</p>
