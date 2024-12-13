@@ -15,7 +15,7 @@ nav_order: 1
 
  <h2 id="research"> <b> Working papers </b> </h2>
 
- <p style="color🟦;">  Fiscal Rules and Fiscal Policy: A Quantitative Analysis  [<a href= "/assets/pdf/Kodjo_Koudakpo_FRFP_JMP.pdf"> Job Market Paper </a>]</p>
+ <p style="color:blue;">  Fiscal Rules and Fiscal Policy: A Quantitative Analysis  [<a href= "/assets/pdf/Kodjo_Koudakpo_FRFP_JMP.pdf"> Job Market Paper </a>]</p>
 <p align="justify"> This paper provides a quantitative analysis of the optimal design of deficit limits
 under imperfect enforcement. Utilizing data on primary balances and fiscal
 rules from 2000 to 2021, I document two critical patterns in low-income countries :
