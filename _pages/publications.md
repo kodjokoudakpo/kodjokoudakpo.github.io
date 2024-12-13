@@ -33,7 +33,7 @@ into the trade-offs between fiscal flexibility and the enforcement of compliance
 mechanisms. </p>
  
   <p> <strong> Trade Policy and U.S. Multinationals activities </strong> </p> 
- <p align="justify">  This paper studies the implications of trade fragmentation on U.S. Multinational Majority-Owned Foreign Affiliates (MOFA) activities. I use data on services trade restrictiveness to document that a higher level of services trade barriers is associated with a higher and persistent decline in US MOFAs' employment and investment. To explain the role of the services trade barriers in the decline of U.S. MOFA activities, I build a general equilibrium of trade and Multinational production with a fragmentation of service trade. Consistent with my empirical findings using OECD data, the model generates a drop in US MOFAs' activities and output. My findings suggest that there is room for policy to mitigate the substantial impacts of service trade restrictions.  </p>
+ <p align="justify">  This paper studies the implications of trade fragmentation on U.S. Multinational Majority-Owned Foreign Affiliates (MOFA) activities. I use data on services trade restrictiveness to document that a higher level of services trade barriers is associated with a higher and persistent decline in US MOFAs' employment and investment. To explain the role of the services trade barriers in the decline of U.S. MOFA activities, I build a general equilibrium of trade and Multinational production with a fragmentation of service trade. Consistent with my empirical findings using OECD data, the model generates a drop in U.S. MOFAs' activities and output. My findings suggest that there is room for policy to mitigate the substantial impacts of service trade restrictions.  </p>
   
 </div>
 
