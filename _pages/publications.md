@@ -13,9 +13,25 @@ nav_order: 1
 
  <div class="home">
 
- <h2 id="research"> <b> Working paper </b> </h2>
+ <h2 id="research"> <b> Working papers </b> </h2>
 
- <p>Fiscal Rules and Fiscal Policy: A Quantitative Analysis </p>
+ <p>Fiscal Rules and Fiscal Policy: A Quantitative Analysis [<a href= "/assets/pdf/Kodjo_Koudakpo_FRFP_JMP.pdf"> Job Market Paper </a>]</p>
+<p align="justify"> This paper provides a quantitative analysis of the optimal design of deficit limits
+under imperfect enforcement. Utilizing data on primary balances and fiscal
+rules from 2000 to 2021, I document two critical patterns in low-income countries :
+the persistence of primary deficits and frequent instances of noncompliance with
+fiscal rules. To elucidate the role of noncompliance in shaping optimal deficit limits,
+I employ a tractable fiscal policy model to conduct a quantitative exercise. The
+model incorporates a key assumption that the cost of noncompliance with a deficit
+limit rises as borrowing increases. Analytical results demonstrate that the optimal
+deficit limit is determined by the magnitude of sanctions associated with violations
+of fiscal rules. Calibration for Sub-Saharan African (SSA) economies suggests that
+an optimal deficit limit ranges from 5.12% to 9.5% of GDP, while the sanctions
+vary between 0.33% and 2.7% of GDP. These findings contribute to the broader
+discourse on the reform of fiscal rules in SSA countries, offering evidence-based insights
+into the trade-offs between fiscal flexibility and the enforcement of compliance
+mechanisms. </p>
+ 
   <p> Trade Policy and U.S. Multinationals activities </p> 
 </div>
 
