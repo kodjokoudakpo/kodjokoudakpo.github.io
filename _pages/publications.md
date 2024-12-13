@@ -42,7 +42,7 @@ mechanisms. </p>
  <h2 id="research"> <b> Work in progress </b> </h2>
 
   
- <p> <strong> Transition to Renewables and Public Debt Sustainability, ( with Fansa Kone and Lucien Chaffa ) </strong></p>
+ <p> <strong> Transition to Renewables and Public Debt Sustainability, ( with Fansa Kone and Lucien Chaffa ) </strong> </p>
 </div>
 
 <br/> 
