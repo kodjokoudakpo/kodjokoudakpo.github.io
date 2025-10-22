@@ -37,21 +37,8 @@
   type: time_table
   contents:
     - title: Economist-Statistician Consultant
-      institution:  World Bank Group, Poverty and Equity, Global Practice, Washington D.C., USA
-      year: 2024 - 2026
-      description:
-       # - Description 1.
-       # - Description 2.
-       # - title: Description 3.
-         # contents:
-         #   - Sub-description 1.
-          #  - Sub-description 2.
-- title:  <strong> Experience </strong>
-  type: time_table
-  contents:
-    - title: Economist-Statistician Consultant
-      institution: World Bank Group, Macro -Trade and Investment, Global Practice, Washington D.C., USA
-      year: 2023 - 2024
+      institution: World Bank Group, MTI and Poverty-Equity, Global Practice, Washington D.C., USA
+      year: 2023 - 2026
       description:
        # - Description 1.
        # - Description 2.
