@@ -50,14 +50,14 @@ mechanisms. </p>
 
   <h2 id="research"> <b> Policy papers </b> </h2>
 
-     <p>  Do subsistence zones matter for poverty reduction?, 2024, World Bank Group, Washington DC (with Grace Doherty and Johannes Hoogeveen)  </p>
+     <p>  <i> Do subsistence zones matter for poverty reduction?, 2024, World Bank Group (with Grace Doherty and Johannes Hoogeveen) </i> </p>
 
-     <p>   Creating Consistent Subsistence Zones with Spatial Clustering for the Sahel Region, 2024, World Bank Group, Washington DC (with Grace Doherty and Johannes Hoogeveen) </p>
+     <p>   Creating Consistent Subsistence Zones with Spatial Clustering for the Sahel Region, 2024, World Bank Group (with Grace Doherty and Johannes Hoogeveen) </p>
      
    <p> <a href="https://documents1.worldbank.org/curated/en/485881623304212722/pdf/Results-from-Iterative-Beneficiary-Facility-Staff-as-Part-of-the-KIRA-Project-March-15-April-2-2021.pdf"> Monitoring health service delivery in Burundi, 2021, World Bank Group, Washington DC, (joint with Alexandra Jarotschkin et al.)</a>.   </p>
 
 
-  <p> <a href="https://pdf.usaid.gov/pdf_docs/PA00X8GH.pdf"> Poverty and Malnutrition in Haiti, 2020, Washington, D.C.: USAID-RTAC  (with Viceisza et al.) </a>.  </p>
+  <p> <a> Poverty and Malnutrition in Haiti, 2020, Washington, D.C.: USAID-RTAC  (with Viceisza et al.) </a>.  </p>
 
 </div>
 
