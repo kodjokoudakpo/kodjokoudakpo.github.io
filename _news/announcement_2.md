@@ -5,4 +5,4 @@ inline: true
 ---
 
 
- I started a new opportunity at World Bank Group, Poverty and Equity GP.
+ I started a new opportunity at The World Bank Group, Poverty and Equity GP.
