@@ -57,7 +57,7 @@ mechanisms. </p>
    <p> <i>  <a href="https://documents1.worldbank.org/curated/en/485881623304212722/pdf/Results-from-Iterative-Beneficiary-Facility-Staff-as-Part-of-the-KIRA-Project-March-15-April-2-2021.pdf"> Monitoring Health Service Delivery in Burundi (World Bank, 2021) </a>  </i>.   </p>
 
 
-  <p> <i> <a> Poverty and Malnutrition in Haiti, 2020, Washington, D.C.: USAID-RTAC  (with Viceisza et al.) </a> </i>i>.  </p>
+  <p> <i> <a> Poverty and Malnutrition in Haiti, 2020, Washington, D.C.: USAID-RTAC  (with Viceisza et al.) </a> </i>.  </p>
 
 </div>
 
