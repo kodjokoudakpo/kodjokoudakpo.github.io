@@ -22,13 +22,31 @@ social: false  # includes social icons at the bottom of the page
 <h4>Welcome to my home page!</h4>  
  <!-- <br/> est pour inserer une ligne vide -->
 <br/>
-I am a Ph.D. candidate in economics at  [University of Montreal](https://sceco.umontreal.ca/english/home/) and  a member of [CIREQ](https://cireqmontreal.com/). 
+<p align="justify">
+I am a Ph.D. candidate in Economics at the
+<a href="https://sceco.umontreal.ca/english/home/)">Université de Montréal</a>
+and a member of
+<a href="https://cireqmontreal.com/).">CIREQ</a>.
+My thesis has been submitted, and my research lies at the intersection of
+<strong>macroeconomics, fiscal policy, international economics, and development economics</strong>.
+</p>
 
+<p align="justify">
+My doctoral research examines fiscal rules and fiscal policy, restrictions on services trade and U.S. multinational activity, and international innovation spillovers from OECD countries to developing economies. I use quantitative models, econometric methods, and microeconomic data to study how institutions, international integration, and technology diffusion affect productivity, growth, firms, and households.
+</p>
 
-<p align="justify">My research focuses on <strong> macroeconomics, public economics, international economics. </strong> I use quantitative models to address questions related to the design of optimal fiscal rules  in order to regulate the government's spending and serve the interests of the citizens. I also study the implications of trade fragmentation on U.S. multinationals activities.  </p>
+<p align="justify">
+I also have extensive international development experience through assignments with
+https://www.worldbank.org/en/who-we-are/the World Bank Group</a>.
+My work connects macroeconomic, fiscal, and structural policies to household welfare, employment, firm performance, and regional outcomes. I have contributed to country diagnostics, macro- and microsimulation, fiscal incidence analysis, crisis monitoring, social protection operations, poverty measurement, and policy dialogue across Sub-Saharan Africa.
+</p>
 
-
-<p align="justify"> Before joining the Ph.D. program, I hold a MSc. in Economics and Statistics, and a MSc. in Applied Statistics from ENSAE-Senegal. I have worked as an Economist-Statistician at <a href='https://www.worldbank.org/en/who-we-are/'>The World Bank</a>, <a href='https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>, and <a href='https://www.usaid.gov/'>USAID-RTAC</a>, as well as at the National Statistics Office.</p>
+<p align="justify">
+I hold an M.Sc. in Economics and Statistics and an M.Sc. in Applied Statistics from ENSAE-Senegal. My previous experience also includes work with
+<a href="https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>,">BCEAO</a>,
+https://www.usaid.gov/USAID-RTAC</a>,
+and a national statistical office.
+</p>
 
 <p>
 You can reach me at  <a href="mailto:%20kodjo.koudakpo@umontreal.ca"> kodjo.koudakpo@umontreal.ca</a>. Please see my <a href= "/assets/pdf/CV_KOUDAKPO.pdf"> CV </a> for more details. </p>
