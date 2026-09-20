@@ -15,25 +15,36 @@ nav_order: 1
 
  <h2 id="research"> <b> Working papers </b> </h2>
 
- <p > <strong> Fiscal Rules and Fiscal Policy: A Quantitative Analysis </strong> [<a href= "/assets/pdf/Kodjo_Koudakpo_FRFP_JMP.pdf"> Job Market Paper </a>]</p>
-<p align="justify"> This paper provides a quantitative analysis of the optimal design of deficit limits
-under imperfect enforcement. Utilizing data on primary balances and fiscal
-rules from 2000 to 2021, I document two critical patterns in low-income countries :
-the persistence of primary deficits and frequent instances of noncompliance with
-fiscal rules. To elucidate the role of noncompliance in shaping optimal deficit limits,
-I employ a tractable fiscal policy model to conduct a quantitative exercise. The
-model incorporates a key assumption that the cost of noncompliance with a deficit
-limit rises as borrowing increases. Analytical results demonstrate that the optimal
-deficit limit is determined by the magnitude of sanctions associated with violations
-of fiscal rules. Calibration for Sub-Saharan African (SSA) economies suggests that
-an optimal deficit limit ranges from 5.12% to 9.5% of GDP, while the sanctions
-vary between 0.33% and 2.7% of GDP. These findings contribute to the broader
-discourse on the reform of fiscal rules in SSA countries, offering evidence-based insights
-into the trade-offs between fiscal flexibility and the enforcement of compliance
-mechanisms. </p>
- 
-  <p> <strong> Trade Policy and U.S. Multinationals activities </strong> [<a> Draft coming soon </a>]</p> 
- <p align="justify">  This paper studies the implications of trade fragmentation on U.S. Multinational Majority-Owned Foreign Affiliates (MOFA) activities. I use data on services trade restrictiveness to document that a higher level of services trade barriers is associated with a higher and persistent decline in US MOFAs' employment and investment. To explain the role of the services trade barriers in the decline of U.S. MOFA activities, I build a general equilibrium of trade and Multinational production with a fragmentation of service trade. Consistent with my empirical findings using OECD data, the model generates a drop in U.S. MOFAs' activities and output. My findings suggest that there is room for policy to mitigate the substantial impacts of service trade restrictions.  </p>
+<p>
+  <strong>Fiscal Rules and Fiscal Policy: A Quantitative Analysis</strong>
+  [<a href="/assets/pdf/Kodjo_Koudakpo_FRFP_JMP.pdf">Job Market Paper</a>]
+</p>
+
+<p align="justify">
+This paper provides a quantitative analysis of the optimal design of deficit limits under imperfect enforcement. Utilizing data on primary balances and fiscal rules from 2000 to 2021, I document two critical patterns in low-income countries: the persistence of primary deficits and frequent instances of noncompliance with fiscal rules. To elucidate the role of noncompliance in shaping optimal deficit limits, I employ a tractable fiscal policy model to conduct a quantitative exercise. The model incorporates a key assumption that the cost of noncompliance with a deficit limit rises as borrowing increases. Analytical results demonstrate that the optimal deficit limit is determined by the magnitude of sanctions associated with violations of fiscal rules. Calibration for Sub-Saharan African (SSA) economies suggests that an optimal deficit limit ranges from 5.12% to 9.5% of GDP, while the sanctions vary between 0.33% and 2.7% of GDP. These findings contribute to the broader discourse on the reform of fiscal rules in SSA countries, offering evidence-based insights into the trade-offs between fiscal flexibility and the enforcement of compliance mechanisms.
+</p>
+
+<hr>
+
+<p>
+  <strong>Services Trade Restrictions and U.S. Multinational Activity</strong>, with Kodjovi Eklou
+  [<span>Ongoing Research</span>]
+</p>
+
+<p align="justify">
+In this paper, we study how host-country restrictions on services trade affect the foreign activities of U.S. multinational enterprises. We combine country-level measures of affiliate sales, employment, assets, and business expansion from the U.S. Bureau of Economic Analysis with the OECD Services Trade Restrictiveness Index for 2014-2022. The empirical analysis exploits changes in regulatory restrictiveness over time across host countries. We first estimate panel data models with country and year fixed effects and then use local projections to trace the dynamic adjustment of multinational activity following changes in services trade restrictions. The estimates show that greater restrictiveness is associated with lower affiliate sales, fewer affiliates, and lower employment. The local projection findings show that these effects are persistent. The results show that restrictions on services trade affect not only cross-border trade but also the scale of multinational operations in foreign markets. They provide new evidence on how host-country regulations shape the international allocation of U.S. business activity.
+</p>
+
+<hr>
+
+<p>
+  <strong>Spillover from Innovation to Developing Countries</strong>, with Kodjovi Eklou
+  [<span>Ongoing Research</span>]
+</p>
+
+<p align="justify">
+This paper examines whether innovation generated in OECD economies raises productivity in developing countries through multinational production networks. We combine annual patenting in OECD source countries with bilateral Greenfield foreign direct investment from fDi Markets and destination-country productivity from the Penn World Table. For each destination, we construct bilateral weights from the source composition of Greenfield investment received during 2003–2007 and hold these weights fixed throughout the estimation period. We combine the predetermined weights with subsequent patenting in the corresponding OECD source countries to measure the foreign innovation accessible through each destination’s pre-existing multinational production network. The baseline measure uses Greenfield capital expenditure to characterize bilateral production links, while project counts and expected employment provide alternative weights. Local projections estimated over 2008–2020 show that a 0.1 log-point increase in capex-weighted foreign-innovation exposure is associated with an increase in total factor productivity of approximately 0.9 percent in the impact year. The cumulative response declines after impact but remains positive through year three in the baseline specification. The impact estimate is stable when the multinational network is measured using capital expenditure, project counts, or expected jobs and remains positive across alternative control sets. We find limited evidence that the productivity response varies systematically with initial human capital, secondary school enrollment, internet penetration, or access to electricity. The results point to a positive and front-loaded productivity response to innovation transmitted through multinational production networks, with the strongest evidence concentrated in the exposure year.
+
   
 </div>
 
@@ -41,20 +52,22 @@ mechanisms. </p>
 
  <h2 id="research"> <b> Work in progress </b> </h2>
 
- <p> <strong> Transition to Renewables and Public Debt Sustainability, ( with Fansa Kone and Lucien Chaffa ) </strong> </p>
+ <p> <strong> Transition to Renewables and Public Debt Sustainability ( with Fansa Kone and Lucien Chaffa) </strong> </p>
 </div>
 
 <br/> 
 
 <div class="home">
 
-  <h2 id="research"> <b> Policy papers </b> </h2>
+  <h2 id="research"> <b> Selected Analytical And Knowledge Products </b> </h2>
 
-     <p>  <i>  Do Subsistence Zones Matter for Poverty Reduction? (World Bank, 2024). </i> </p>
-
-     <p>  <i> Creating Consistent Subsistence Zones with Spatial Clustering for the Sahel Region (World Bank, 2024). </i> </p>
+     <p>  <i>  Trends in Non-Monetary Poverty and Labor Market Dynamics in Eswatini, World Bank Group, 2026. (With N. Shabalala and O. Nsababera) </i> </p>
      
-   <p> <i>  <a href="https://documents1.worldbank.org/curated/en/485881623304212722/pdf/Results-from-Iterative-Beneficiary-Facility-Staff-as-Part-of-the-KIRA-Project-March-15-April-2-2021.pdf"> Monitoring Health Service Delivery in Burundi (World Bank, 2021) </a>  </i>.   </p>
+     <p>  <i>  Do Subsistence Zones Matter for Poverty Reduction?, World Bank Group, 2024. (With G. Doherty and J. Hoogeveen) </i> </p>
+
+     <p>  <i> Creating Consistent Subsistence Zones with Spatial Clustering for the Sahel Region, World Bank Group, 2024. (With G. Doherty and J. Hoogeveen) </i> </p>
+     
+   <p> <i>  <a href="https://documents1.worldbank.org/curated/en/485881623304212722/pdf/Results-from-Iterative-Beneficiary-Facility-Staff-as-Part-of-the-KIRA-Project-March-15-April-2-2021.pdf"> Monitoring Health Service Delivery in Burundi, World Bank, 2021. (With A. Jarotschkin, S. Sonne, and L. Rivera.) </a>  </i>.   </p>
 
 
   <p> <i> <a> Poverty and Malnutrition in Haiti, 2020, Washington, D.C.: USAID-RTAC  (with Viceisza et al.) </a> </i>.  </p>
