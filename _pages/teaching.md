@@ -9,21 +9,57 @@ nav_order: 5
 
 
 
-  <div class="col-md-12">
-    <h5> <strong>Lecturer, </strong> <a href="https://sceco.umontreal.ca/english/home/">University of Montreal</a></h5>
-    <ul>
+ <div class="col-md-12">
+  <h5>
+    <strong>Lecturer</strong>,
+    <a href="https://sceco.umontreal.ca/english/home/">
+      Université de Montréal
+    </a>
+  </h5>
 
-     <li> Econometrics (Undergraduate): Winter 2022, Winter 2024 </li>
-     <li> Mathematics for Economics Analysis (Undergraduate): Summer 2024 </li>
-     <li> Introduction to the Economics (Undergraduate): Fall 2022, Fall 2024, Winter 2025 </li> </ul>
-   </div>
-  <div class="col-md-12">
-  <h5> <strong> Teaching Assistant, </strong>  <a href="https://sceco.umontreal.ca/english/home/">University of Montreal</a></h5>
-  <ul>  <li> Macroeconomics Theory (Undergraduate): Fall 2021, Fall 2022, Fall 2023, Fall 2024, Fall 2025 </li> 
-  <li> Econometrics (Undergraduate): Fall 2020, Winter 2021, Fall 2021, Winter 2023  </li> 
-  <li> Introduction to Macroeconomics (Undergraduate): Summer 2023, Fall 2024, Winter 2025 </li>   </ul>
-  </div>
-  <div class="col-md-12">
+  <p align="justify">
+    My teaching has received excellent course evaluations from students. I aim to make economic theory and quantitative methods accessible by combining clear explanations, practical examples, and applied exercises using statistical and computational tools.
+  </p>
+
+  <ul>
+    <li>
+      <strong>Econometrics</strong> (Undergraduate):
+      Winter 2022, Winter 2024
+    </li>
+    <li>
+      <strong>Mathematics for Economic Analysis</strong> (Undergraduate):
+      Summer 2024
+    </li>
+    <li>
+      <strong>Introduction to Economics</strong> (Undergraduate):
+      Fall 2022, Fall 2024, Winter 2025
+    </li>
+  </ul>
+</div>
+
+<div class="col-md-12">
+  <h5>
+    <strong>Teaching Assistant</strong>,
+    <a href="https://sceco.umontreal.ca/english/home/">
+      Université de Montréal
+    </a>
+  </h5>
+
+  <ul>
+    <li>
+      <strong>Macroeconomic Theory</strong> (Undergraduate):
+      Fall 2021, Fall 2022, Fall 2023, Fall 2024, Fall 2025
+    </li>
+    <li>
+      <strong>Econometrics</strong> (Undergraduate):
+      Fall 2020, Winter 2021, Fall 2021, Winter 2023
+    </li>
+    <li>
+      <strong>Introduction to Macroeconomics</strong> (Undergraduate):
+      Summer 2023, Fall 2024, Winter 2025, Fall 2026
+    </li>
+  </ul>
+</div>
   
 
 <br/> <br/> <br/>
