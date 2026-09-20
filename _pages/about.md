@@ -42,7 +42,7 @@ My work connects macroeconomic, fiscal, and structural policies to household wel
 </p>
 
 <p align="justify">
-I hold an M.Sc. in Economics and Statistics and an M.Sc. in Applied Statistics from ENSAE-Senegal. My previous experience also includes work with
+I hold an M.Sc. in Economics and Statistics and an M.Sc. in Applied Statistics from  <a href="https://www.ensae.sn/accueil" > ENSAE-Senegal</a>. My previous experience also includes work with
 <a href="https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>,">BCEAO</a>,
 USAID-RTAC, and National Statistical Offices.
 </p>
