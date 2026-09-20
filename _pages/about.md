@@ -27,7 +27,7 @@ I am a Ph.D. candidate in Economics at the
 <a href="https://sceco.umontreal.ca/english/home/)">Université de Montréal</a>
 and a member of
 <a href="https://cireqmontreal.com/).">CIREQ</a>.
-My thesis has been submitted, and my research lies at the intersection of
+My research lies at the intersection of
 <strong>macroeconomics, fiscal policy, international economics, and development economics</strong>.
 </p>
 
