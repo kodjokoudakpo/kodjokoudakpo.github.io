@@ -37,15 +37,14 @@ My doctoral research examines fiscal rules and fiscal policy, restrictions on se
 
 <p align="justify">
 I also have extensive international development experience through assignments with
-https://www.worldbank.org/en/who-we-are/the World Bank Group</a>.
+<a href="https://www.worldbank.org/ext/en/home" >World Bank Group</a>.
 My work connects macroeconomic, fiscal, and structural policies to household welfare, employment, firm performance, and regional outcomes. I have contributed to country diagnostics, macro- and microsimulation, fiscal incidence analysis, crisis monitoring, social protection operations, poverty measurement, and policy dialogue across Sub-Saharan Africa.
 </p>
 
 <p align="justify">
 I hold an M.Sc. in Economics and Statistics and an M.Sc. in Applied Statistics from ENSAE-Senegal. My previous experience also includes work with
 <a href="https://www.bceao.int/en/content/presentation-bceao/'>BCEAO</a>,">BCEAO</a>,
-https://www.usaid.gov/USAID-RTAC</a>,
-and a national statistical office.
+USAID-RTAC, and National Statistical Offices.
 </p>
 
 <p>
