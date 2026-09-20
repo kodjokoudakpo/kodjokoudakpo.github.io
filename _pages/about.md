@@ -27,12 +27,12 @@ I am a Ph.D. candidate in Economics at the
 <a href="https://sceco.umontreal.ca/english/home/)">Université de Montréal</a>
 and a member of
 <a href="https://cireqmontreal.com/).">CIREQ</a>.
-My research lies at the intersection of
+My research interests lie at the intersection of
 <strong>macroeconomics, fiscal policy, international economics, and development economics</strong>.
 </p>
 
 <p align="justify">
-My doctoral research examines fiscal rules and fiscal policy, restrictions on services trade and U.S. multinational activity, and international innovation spillovers from OECD countries to developing economies. I use quantitative models, econometric methods, and microeconomic data to study how institutions, international integration, and technology diffusion affect productivity, growth, firms, and households.
+My research examines fiscal rules and fiscal policy, restrictions on services trade and U.S. multinational activity, and international innovation spillovers from OECD countries to developing economies. I use quantitative models, econometric methods, and microeconomic data to study how institutions, international integration, and technology diffusion affect productivity, growth, firms, and households.
 </p>
 
 <p align="justify">
