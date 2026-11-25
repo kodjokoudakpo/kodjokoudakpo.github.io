@@ -22,12 +22,13 @@ social: false  # includes social icons at the bottom of the page
 <h4>Welcome to my home page!</h4>  
  <!-- <br/> est pour inserer une ligne vide -->
 <br/>
+
 <p align="justify">
-I am a Ph.D. candidate in Economics at the
-<a href="https://sceco.umontreal.ca/english/home/)">Université de Montréal</a>
+I am an economist with a Ph.D. in Economics from
+<a href="https://sceco.umontreal.ca/english/home/" target="_blank" rel="noopener noreferrer">Université de Montréal</a>
 and a member of
-<a href="https://cireqmontreal.com/).">CIREQ</a>.
-My research interests lie at the intersection of
+<a href="https://cireqmontreal.com/" target="_blank" rel="noopener noreferrer">CIREQ</a>.
+My research lies at the intersection of
 <strong>macroeconomics, fiscal policy, international economics, and development economics</strong>.
 </p>
 
