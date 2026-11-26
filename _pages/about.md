@@ -23,10 +23,16 @@ social: false  # includes social icons at the bottom of the page
  <!-- <br/> est pour inserer une ligne vide -->
 <br/>
 
-<p align="justify"> I am a Ph.D. candidate in Economics at the <a href=")">Université de Montréal</a> and a member of <a href=").">CIREQ</a>. My research interests lie at the intersection of <strong>macroeconomics, fiscal policy, international economics, and development economics</strong>. </p>
+<!-- <br/> est pour insérer une ligne vide -->
+<br/>
 
 <p align="justify">
-My research examines fiscal rules and fiscal policy, restrictions on services trade and U.S. multinational activity, and international innovation spillovers from OECD countries to developing economies. I use quantitative models, econometric methods, and microeconomic data to study how institutions, international integration, and technology diffusion affect productivity, growth, firms, and households.
+I am an economist with a Ph.D. in Economics from
+<a href="https://sceco.umontreal.ca/english/home/" target="_blank" rel="noopener noreferrer">Université de Montréal</a>
+and a member of
+<a href="https://cireqmontreal.com/" target="_blank" rel="noopener noreferrer">CIREQ</a>.
+My research lies at the intersection of
+<strong>macroeconomics, fiscal policy, international economics, and development economics</strong>.
 </p>
 
 <p align="justify">
